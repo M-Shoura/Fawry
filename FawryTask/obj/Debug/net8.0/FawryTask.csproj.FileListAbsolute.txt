@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\bin\Debug\net8.0\FawryTask.exe
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\bin\Debug\net8.0\FawryTask.deps.json
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\bin\Debug\net8.0\FawryTask.runtimeconfig.json
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\bin\Debug\net8.0\FawryTask.dll
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\bin\Debug\net8.0\FawryTask.pdb
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.dll
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\obj\Debug\net8.0\refint\FawryTask.dll
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.pdb
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\obj\Debug\net8.0\FawryTask.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\New folder (2)\FawryTask\FawryTask\obj\Debug\net8.0\ref\FawryTask.dll
